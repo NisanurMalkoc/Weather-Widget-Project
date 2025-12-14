@@ -44,4 +44,4 @@ Projenin yerel makinenizde çalışması için sadece tarayıcıya ihtiyacınız
 Bu projeyi canlı görmek için aşağıdaki bağlantıyı ziyaret edin:
 https://nisanurmalkoc.github.io/Weather-Widget-Project/
 
-https://github.com/NisanurMalkoc/Weather-Widget-Project/settings/pages
+https://nisanurmalkoc.github.io/Weather-Widget-Project/
