@@ -1,6 +1,7 @@
 # Weather-Widget-Project
 JavaScript ile anlık hava durumu uygulaması.
 #  Hava Durumu Sorgulama Widget'ı
+(Örn: "API anahtarı güvenlik nedeniyle kaldırılmıştır ve sadece yerel geliştirme için mevcuttur.").
 
 Bu proje, kullanıcının girdiği şehir için anlık hava durumu bilgilerini dinamik olarak çekip gösteren basit ve şık bir web uygulamasıdır.
 
