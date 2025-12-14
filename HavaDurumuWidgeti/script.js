@@ -1,4 +1,4 @@
-const apiKey = "f3c18326acfd4615355f044c1c54e3ee"; // Sizin Aktif Anahtarınız
+const apiKey = "----"; // Sizin Aktif Anahtarınız
 const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&lang=tr"; 
 
 const cityInput = document.getElementById('city-input');
@@ -55,4 +55,5 @@ function displayWeather(data) {
     iconDisplay.src = iconUrl;
     
     weatherInfoDiv.style.display = 'block';
+
 }
