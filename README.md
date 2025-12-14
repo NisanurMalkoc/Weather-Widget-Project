@@ -24,7 +24,7 @@ Bu proje, kullanıcının girdiği şehir için anlık hava durumu bilgilerini d
 
 ---
 
-## ⚙️ Kurulum ve Çalıştırma
+## Kurulum ve Çalıştırma
 
 Projenin yerel makinenizde çalışması için sadece tarayıcıya ihtiyacınız vardır.
 
@@ -32,13 +32,13 @@ Projenin yerel makinenizde çalışması için sadece tarayıcıya ihtiyacınız
     ```bash
     git clone [https://github.com/KullaniciAdiniz/Hava-Durumu-Widget.git](https://github.com/KullaniciAdiniz/Hava-Durumu-Widget.git)
     ```
-    *(Not: Eğer Git kullanmıyorsanız, yeşil "Code" butonuna tıklayıp "Download ZIP" seçeneğini kullanabilirsiniz.)*
+  
 
 2.  İndirdiğiniz klasörün içine girin.
 3.  `index.html` dosyasını tarayıcınızda açın (`Open with Live Server` veya doğrudan çift tıklama).
 
-**Önemli Not:** API anahtarınız `script.js` dosyası içinde yer almaktadır.
 
+https://nisanurmalkoc.github.io/Weather-Widget-Project/
 ---
 
 ## 🔗 Canlı Önizleme (GitHub Pages)
