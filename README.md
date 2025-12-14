@@ -43,3 +43,5 @@ Projenin yerel makinenizde çalışması için sadece tarayıcıya ihtiyacınız
 
 Bu projeyi canlı görmek için aşağıdaki bağlantıyı ziyaret edin:
 https://nisanurmalkoc.github.io/Weather-Widget-Project/
+
+git clone [https://github.com/KullaniciAdiniz/Hava-Durumu-Widget.git](https://github.com/KullaniciAdiniz/Hava-Durumu-Widget.git)
