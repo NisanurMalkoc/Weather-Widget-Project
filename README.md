@@ -39,10 +39,3 @@ Projenin yerel makinenizde çalışması için sadece tarayıcıya ihtiyacınız
 3.  `index.html` dosyasını tarayıcınızda açın (`Open with Live Server` veya doğrudan çift tıklama).
 
 
-
-## 🔗 Canlı Önizleme (GitHub Pages)
-
-Bu projeyi canlı görmek için aşağıdaki bağlantıyı ziyaret edin:
-https://nisanurmalkoc.github.io/Weather-Widget-Project/
-
-https://nisanurmalkoc.github.io/Weather-Widget-Project/
