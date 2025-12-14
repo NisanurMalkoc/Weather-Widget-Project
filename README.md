@@ -42,6 +42,4 @@ Projenin yerel makinenizde çalışması için sadece tarayıcıya ihtiyacınız
 ## 🔗 Canlı Önizleme (GitHub Pages)
 
 Bu projeyi canlı görmek için aşağıdaki bağlantıyı ziyaret edin:
-
-👉 [Canlı Proje Bağlantınız Buraya Gelecek]
 https://nisanurmalkoc.github.io/Weather-Widget-Project/
